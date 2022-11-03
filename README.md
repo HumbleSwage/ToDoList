@@ -23,7 +23,7 @@
 ![](docs/%E9%A1%B9%E7%9B%AE%E6%A1%86%E6%9E%B6.png)
 
 # 4、项目API
--  <a herf=https://www.showdoc.com.cn/2117826241503629/9518449753495922>ToDoList API</a> 密码：eGGatNMd
+- [ToDoList API](https://www.showdoc.com.cn/2117826241503629/9518449753495922)密码：eGGatNMd
 - 或者启动项目后访问 <a>http://localhost:3000/swagger/index.html</a>
 
 # 6、配置文件
@@ -32,7 +32,7 @@
 本人环境：macos + go 1.19（go version > 1.11）
 - 克隆到本地
 ```bash
-git clone 
+git clone git@github.com:HumbleSwage/ToDoList.git
 cd TodoList
 ```
 - 下载依赖

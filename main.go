@@ -10,7 +10,7 @@ import (
 // @description the server is developed by Go
 // @name dengzhaowork@gmail.com
 // @BasePath /api/v1
-// @termsOfService https://github.com/go-programming-tour-book
+// @termsOfService https://github.com/HumbleSwage/ToDoList
 func main() {
 	conf.Init()
 	r := routes.NewRoute()
