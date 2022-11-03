@@ -1,0 +1,2 @@
+time="2022-11-03 14:28:04" level=info msg="Key: 'UserService.UserName' Error:Field validation for 'UserName' failed on the 'max' tag"
+time="2022-11-03 14:50:02" level=info msg="strconv.ParseInt: parsing \"测试创建一条任务Status\": invalid syntax"
