@@ -53,4 +53,4 @@ cd ToDoList
 docker-compose up -d
 ```
 
-![截屏2022-12-08 19.03.19](/Users/zhaodeng/Desktop/截屏2022-12-08 19.03.19.png)
+![截屏2022-12-08 19.03.19](docs/docker.png)
