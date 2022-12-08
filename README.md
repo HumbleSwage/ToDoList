@@ -28,7 +28,7 @@
 
 # 6、配置文件
 请注意另外本配置文件属于测试环境，需要更换成你自己的配置。
-# 5、启动本项目
+# 5、本地启动本项目
 本人环境：macos + go 1.19（go version > 1.11）
 - 克隆到本地
 ```bash
@@ -43,3 +43,13 @@ go mod tidy
 ```bash
 go run .
 ```
+
+
+
+# 6、docker启动
+
+```bash
+cd ToDoList
+docker-compose up -d
+```
+
