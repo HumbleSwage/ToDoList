@@ -1,0 +1,23 @@
+system:
+  domain: ToDoList
+  version: 1.0
+  appEnv: "test"
+  HttpPort: ":4000"
+  Host: "localhost"
+
+mysql:
+  default:
+    dialect: "mysql"
+    dbHost: "139.155.56.240"
+    dbPort: "3306"
+    dbName: "todolist_db"
+    userName: "root"
+    password: "9n2q3C5Qpy4R1xroot"
+    charset: "utf8mb4"
+
+redis:
+  redisDbName: 1
+  redisHost: 139.155.56.240
+  redisPort: 6379
+  redisPassword: 563338
+  redisNetwork: tcp

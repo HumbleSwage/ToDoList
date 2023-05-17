@@ -1,0 +1,1 @@
+time="2023-05-16 09:57:06" level=info msg="invalid value, should be pointer to struct or slice"
